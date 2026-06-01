@@ -12,9 +12,9 @@
 - 🎓 *Выживаю на ЕГЭ, жонглируя всем этим списком.*
 
 ### 💻 Мой арсенал (Tech Stack):
-**Backend & Low-Level:** Kotlin, Java, C++ (Game Internals, Memory Manipulation), Python (FastAPI, LLM orchestration).
-**Frontend & Web:** Vue / React, WebSockets, TypeScript.
-**Infrastructure:** Docker (meh, 50/50), Redis, SQL, CI/CD.
+- **Backend & Low-Level:** Kotlin, Java, C++ (Game Internals, Memory Manipulation), Python (FastAPI, LLM orchestration).
+- **Frontend & Web:** Vue / React, WebSockets, TypeScript.
+- **Infrastructure:** Docker (meh, 50/50), Redis, SQL, CI/CD.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,ts,react,docker,redis,idea,git&perline=10" />
