@@ -6,6 +6,7 @@
 
 ### 🚀 Что я пилю прямо сейчас:
 - 🛠 **[Slipstream](http://github.com/ClCody/Slipstream)** — Next-Gen фреймворк для перехвата пакетов и симуляции физики (Zero-Allocation, Netty, Kotlin).
+- 🧠 **Makora-NET** — Исследовательский проект новой нейросетевой архитектуры (Post-Transformer).
 - ⚔️ **Apogee** — Платформа соревновательного матчмейкинга (League/Faceit-style) для Minecraft.
 - 🧠 **Krypteon** — Мультиагентная AI-экосистема для комплексной аналитики.
 - 🛡️ **CubeVerse** — Поддерживаю инфраструктуру сервера в роли Tech Admin & Core Developer.
@@ -15,9 +16,12 @@
 - **Backend & Low-Level:** Kotlin, Java, C++ (Game Internals, Memory Manipulation), Python (FastAPI, LLM orchestration).
 - **Frontend & Web:** Vue / React, WebSockets, TypeScript.
 - **Infrastructure:** Docker (meh, 50/50), Redis, SQL, CI/CD.
+- **Deep Learning:** PyTorch
+- **GPU Programming:** Triton
+- **Intermediate:** CUDA
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,ts,react,docker,redis,idea,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,kotlin,java,cpp,python,ts,react,docker,redis,idea,git&perline=10" />
 </p>
 
 ### 📈 Аналитика активности:
