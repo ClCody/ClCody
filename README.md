@@ -10,7 +10,7 @@
 - ⚔️ **Apogee** — Платформа соревновательного матчмейкинга (League/Faceit-style) для Minecraft.
 - 🧠 **Krypteon** — Мультиагентная AI-экосистема для комплексной аналитики.
 - 🛡️ **CubeVerse** — Поддерживаю инфраструктуру сервера в роли Tech Admin & Core Developer.
-- 🎓 *Выживаю на ЕГЭ, жонглируя всем этим списком.*
+- 🎓 *Выжил на ЕГЭ, жонглируя всем этим списком.*
 
 ### 💻 Мой арсенал (Tech Stack):
 - **Backend & Low-Level:** Kotlin, Java, C++ (Game Internals, Memory Manipulation), Python (FastAPI, LLM orchestration).
